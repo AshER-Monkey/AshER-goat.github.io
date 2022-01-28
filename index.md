@@ -1,5 +1,6 @@
 # Welcome to AshER-goat's first GitHub page!
 Check out the [editor](https://github.com/AshER-goat/) on GitHub
 
-## I mainly use this site for web development practice or sharing pages I've built.
+## I mainly use this site for web development practice or sharing pages I've built. Feel free to check out the code. :EMOJICODE::slightly_smiling_face:
+
 ![image](https://asher-goat.github.io/my&#32;art&#32;logo.png)

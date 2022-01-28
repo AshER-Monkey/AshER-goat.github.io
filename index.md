@@ -2,4 +2,4 @@
 Check out: [editor on GitHub](https://github.com/AshER-goat/AshER-goat.github.io/My_Repos.md)
 
 #I mainly use this site for web development practice or sharing pages I've built.
-![Image](https://asher-goat/github.io/my%20art%20logo.png)
+![Image](https://asher-goat/github.io/my art logo.png)

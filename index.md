@@ -8,3 +8,4 @@ Check out the [editor](https://github.com/AshER-goat/) on GitHub
 - [react-fun](https://asher-goat.github.io/react-fun/)
 - [Goats](https://asher-goat.github.io/Goats/)
 - [Web Design Tips](https://asher-goat.github.io/Web-Design-Tips/)
+- [Reddit Project](https://asher-goat.github.io/codecademy_reddit_project/)

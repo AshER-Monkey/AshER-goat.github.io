@@ -1,3 +1,5 @@
+<link rel="icon" type="image/png" class="logo" href="my%20art%20logo.png" sizes="16x16">
+
 # Welcome to AshER-goat's first GitHub page!
 ![image](https://asher-goat.github.io/my&#32;art&#32;logo.png)
 Check out the [editor](https://github.com/AshER-goat/) on GitHub

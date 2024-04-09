@@ -12,4 +12,3 @@ Check out the [editor](https://github.com/AshER-goat/) on GitHub
 - [Goats](https://asher-goat.github.io/Goats/)
 - [Insult Generator](https://asher-goat.github.io/Insult_Generator/)
 - [Web Design Tips](https://asher-goat.github.io/Web-Design-Tips/)
-- [Reddit Project](https://asher-goat.github.io/codecademy_reddit_project/)

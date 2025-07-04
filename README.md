@@ -1,5 +1,5 @@
-# AshER-goat.github.io
-# GitHub - AshER-goat.github.io
+# AshER-monkey.github.io
+# GitHub - AshER-Monkey.github.io
 A project site for a mediocre web designer learning new tricks
 
 -----------------------------------------
@@ -27,6 +27,6 @@ Just open your browser!
 
 ### Links
 ------------------------------------------
-![Algorithm schema](my%20art%20logo.png)
+![Algorithm schema](my%20art%20logo_redux_2.png)
 
-https://www.ashleighrobertsart.com/
+https://ashleighrobertsart.com/

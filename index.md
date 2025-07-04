@@ -1,7 +1,7 @@
-<link rel="icon" type="image/png" href="my%20art%20logo.png" sizes="16x16">
+<link rel="icon" type="image/png" href="my%20art%20logo_redux_2.png" sizes="32x32">
 
 # Welcome to AshER-goat's first GitHub page!
-![image](https://asher-monkey.github.io/my&#32;art&#32;logo.png)
+![image](https://asher-monkey.github.io/my%20art%20logo_redux_2.png)
 Check out the [editor](https://github.com/AshER-monkey/) on GitHub
 
 ## I mainly use this site for web development practice or sharing pages I've built. 🙂
